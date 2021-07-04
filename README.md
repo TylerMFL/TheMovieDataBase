@@ -1,6 +1,6 @@
 # Features
 
-- Designed with MVVM
+- Designed with MVVM using protocols for an easy future testing step 
 - AFNetworking for comunications
 - Lottie for a frendly user interface
 - KingFisher for caching images
@@ -10,3 +10,4 @@
 
 - Create SettingsViewController for common configurations as image size or cache life time
 - Modify UI for a better design (fonts, colors, emojis...)
+- Add unit tests
